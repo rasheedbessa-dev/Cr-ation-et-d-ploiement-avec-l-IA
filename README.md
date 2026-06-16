@@ -4,7 +4,7 @@
 Lecteur de musique web avec fallback offline.
 
 ## 🌐 Déploiement
-- **GitHub Pages** : https://VOTRE_USERNAME.github.io/vibetunes/
+- **GitHub Pages** : [https://VOTRE_USERNAME.github.io/vibetunes/](https://rasheedbessa-dev.github.io/Cr-ation-et-d-ploiement-avec-l-IA/)
 - **API** : Deezer (avec proxy CORS) + fallback local
 
 ## 🛠️ Technologies
